@@ -9,7 +9,7 @@ Files:
 
 
 Instructions:
-1. Unzip 
+1. Clone repo
 2. Type make to compile client
 3. Start server by running ./chatserve <port#>
 4. In another terminal window, start client by running ./chatclient <server-hostname> <port#>
